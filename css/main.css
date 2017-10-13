@@ -1,0 +1,57 @@
+html, body {
+  background-color: white;
+  font-family:'Helvetica', sans-serif;
+  color: #202020;
+  height: 100%;
+  min-height: 100%;
+  margin: 0px;
+
+  }
+/* Bootstrap uses class .container */
+/* .container {
+  font-family:'Helvetica', sans-serif;
+  height: 100%;
+  width: 100%;
+
+  } * /
+
+
+/* navbar style */
+
+
+.navbar a {
+  color: #383838;
+}
+.navbar a:hover {
+  color: #383838;
+}
+
+.navbar li {
+  padding-left:30px;
+  padding-right:30px;
+
+}
+.brand-ib {
+  color: #4578b0;
+  font-weight: bold;
+}
+
+.brand-borgar {
+  color:#006940;
+}
+
+.brand-se {
+  color: #e6e600;
+}
+
+.navbar-brand {
+
+}
+
+
+
+/* button style */
+
+.btn.sharp { /* should make buttons unique across all pages */
+  border-radius: 0;
+}
